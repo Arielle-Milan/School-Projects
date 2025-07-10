@@ -1,2 +1,1 @@
-# School-Projects
-These are projects that I completed as part of my degree.
+These are the programs/projects that I built while studying.
